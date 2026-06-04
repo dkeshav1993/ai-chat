@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "status": 0,
+  "message": "Suggestions fetched successfully",
+  "autoSuggestId": "MOCK-AS-DUBAI-001",
+  "autoSuggests": [
+    {
+      "uniqueId": "16992900",
+      "type": "cities",
+      "name": "Dubai",
+      "cityName": "Dubai",
+      "stateName": "Dubai",
+      "countryName": "United Arab Emirates"
+    },
+    {
+      "uniqueId": "16992900",
+      "type": "locations",
+      "name": "Dubai",
+      "cityName": "Dubai",
+      "stateName": "Dubai",
+      "countryName": "United Arab Emirates"
+    }
+  ]
+}

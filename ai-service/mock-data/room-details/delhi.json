@@ -1,0 +1,303 @@
+{
+  "_meta": {
+    "description": "Mock room data for Delhi destinations."
+  },
+  "MOCK-HOTEL-DELHI-001": {
+    "success": true,
+    "status": 0,
+    "message": "Room details fetched successfully",
+    "autoSuggestId": "MOCK-AS-DELHI-001",
+    "searchKey": "MOCK-SK-DELHI-001",
+    "roomData": {
+      "hotelId": "MOCK-HOTEL-DELHI-001",
+      "standardRooms": [
+        {
+          "description": "Deluxe Double Room",
+          "standardName": "Deluxe Double Room",
+          "masterTitle": "Deluxe Double Room",
+          "category": "Deluxe",
+          "view": "City View",
+          "roomLocation": "Upper Floors",
+          "occupancyType": "1 Double",
+          "roomRates": [
+            {
+              "roomId": "MOCK-ROOM-DELHI-001-A",
+              "inputIndex": 1,
+              "bed_group": [],
+              "providerInfo": {
+                "providerName": "GRNConnect",
+                "providerHotelID": "1395001",
+                "fareType": "MARKETFARE",
+                "inPolicy": null,
+                "outPolicyReasons": [],
+                "ruleName": null,
+                "outPolicyReasonKey": []
+              },
+              "amenities": [
+                {
+                  "id": "",
+                  "name": "Free WiFi",
+                  "masterFacilityId": ""
+                }
+              ],
+              "rateId": "MOCK-RATE-DELHI-001-A",
+              "totalPrice": {
+                "source": "5500.0",
+                "parsedValue": 5500
+              },
+              "basePrice": 4661.02,
+              "taxes": 838.98,
+              "taxBreakup": [
+                {
+                  "amount": 238.98,
+                  "currency": null,
+                  "type": "GST"
+                },
+                {
+                  "amount": 600.0,
+                  "currency": null,
+                  "type": "Service Fee"
+                }
+              ],
+              "searchId": "MOCK-SEARCH-001",
+              "boardBasis": "BB",
+              "refundability": "Refundable",
+              "cancelPenalties": [
+                {
+                  "name": "Cancellation Policy",
+                  "penaltyDescription": "Free cancellation up to 48 hours before check-in",
+                  "nonRefundable": false
+                }
+              ]
+            }
+          ],
+          "images": {
+            "isDummy": true,
+            "data": [
+              {
+                "caption": "Room View",
+                "links": [
+                  {
+                    "size": "Standard",
+                    "providerHref": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800",
+                    "href": ""
+                  }
+                ],
+                "roomId": [
+                  "MOCK-ROOM-DELHI-001-A"
+                ]
+              },
+              {
+                "caption": "Bathroom",
+                "links": [
+                  {
+                    "size": "Standard",
+                    "providerHref": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800",
+                    "href": ""
+                  }
+                ],
+                "roomId": [
+                  "MOCK-ROOM-DELHI-001-A"
+                ]
+              },
+              {
+                "caption": "City View",
+                "links": [
+                  {
+                    "size": "Standard",
+                    "providerHref": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=800",
+                    "href": ""
+                  }
+                ],
+                "roomId": [
+                  "MOCK-ROOM-DELHI-001-A"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "description": "Executive King Room",
+          "standardName": "Executive King Room",
+          "masterTitle": "Executive King Room",
+          "category": "Superior",
+          "view": "Garden View",
+          "roomLocation": "Top Floors",
+          "occupancyType": "1 King",
+          "roomRates": [
+            {
+              "roomId": "MOCK-ROOM-DELHI-001-B",
+              "inputIndex": 2,
+              "bed_group": [],
+              "providerInfo": {
+                "providerName": "GRNConnect",
+                "providerHotelID": "1395001",
+                "fareType": "MARKETFARE",
+                "inPolicy": null,
+                "outPolicyReasons": [],
+                "ruleName": null,
+                "outPolicyReasonKey": []
+              },
+              "amenities": [
+                {
+                  "id": "",
+                  "name": "Free WiFi",
+                  "masterFacilityId": ""
+                },
+                {
+                  "id": "",
+                  "name": "Club Lounge Access",
+                  "masterFacilityId": ""
+                }
+              ],
+              "rateId": "MOCK-RATE-DELHI-001-B",
+              "totalPrice": {
+                "source": "9200.0",
+                "parsedValue": 9200
+              },
+              "basePrice": 7796.61,
+              "taxes": 1403.39,
+              "taxBreakup": [
+                {
+                  "amount": 403.39,
+                  "currency": null,
+                  "type": "GST"
+                },
+                {
+                  "amount": 1000.0,
+                  "currency": null,
+                  "type": "Service Fee"
+                }
+              ],
+              "searchId": "MOCK-SEARCH-001",
+              "boardBasis": "BB",
+              "refundability": "Refundable",
+              "cancelPenalties": [
+                {
+                  "name": "Cancellation Policy",
+                  "penaltyDescription": "Free cancellation up to 48 hours before check-in",
+                  "nonRefundable": false
+                }
+              ]
+            }
+          ],
+          "images": {
+            "isDummy": true,
+            "data": [
+              {
+                "caption": "Room View",
+                "links": [
+                  {
+                    "size": "Standard",
+                    "providerHref": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=800",
+                    "href": ""
+                  }
+                ],
+                "roomId": [
+                  "MOCK-ROOM-DELHI-001-B"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "description": "Junior Suite",
+          "standardName": "Junior Suite",
+          "masterTitle": "Junior Suite",
+          "category": "Suite",
+          "view": "Panoramic View",
+          "roomLocation": "High Floors",
+          "occupancyType": "1 King + Sofa",
+          "roomRates": [
+            {
+              "roomId": "MOCK-ROOM-DELHI-001-C",
+              "inputIndex": 3,
+              "bed_group": [],
+              "providerInfo": {
+                "providerName": "GRNConnect",
+                "providerHotelID": "1395001",
+                "fareType": "MARKETFARE",
+                "inPolicy": null,
+                "outPolicyReasons": [],
+                "ruleName": null,
+                "outPolicyReasonKey": []
+              },
+              "amenities": [
+                {
+                  "id": "",
+                  "name": "Free WiFi",
+                  "masterFacilityId": ""
+                },
+                {
+                  "id": "",
+                  "name": "Jacuzzi",
+                  "masterFacilityId": ""
+                }
+              ],
+              "rateId": "MOCK-RATE-DELHI-001-C",
+              "totalPrice": {
+                "source": "22000.0",
+                "parsedValue": 22000
+              },
+              "basePrice": 18644.07,
+              "taxes": 3355.93,
+              "taxBreakup": [
+                {
+                  "amount": 955.93,
+                  "currency": null,
+                  "type": "GST"
+                },
+                {
+                  "amount": 2400.0,
+                  "currency": null,
+                  "type": "Service Fee"
+                }
+              ],
+              "searchId": "MOCK-SEARCH-001",
+              "boardBasis": "HB",
+              "refundability": "Non-Refundable",
+              "cancelPenalties": [
+                {
+                  "name": "Cancellation Policy",
+                  "penaltyDescription": "Non-Refundable",
+                  "nonRefundable": true
+                }
+              ]
+            }
+          ],
+          "images": {
+            "isDummy": true,
+            "data": [
+              {
+                "caption": "Suite Living Area",
+                "links": [
+                  {
+                    "size": "Standard",
+                    "providerHref": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800",
+                    "href": ""
+                  }
+                ],
+                "roomId": [
+                  "MOCK-ROOM-DELHI-001-C"
+                ]
+              },
+              {
+                "caption": "Suite Bedroom",
+                "links": [
+                  {
+                    "size": "Standard",
+                    "providerHref": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=800",
+                    "href": ""
+                  }
+                ],
+                "roomId": [
+                  "MOCK-ROOM-DELHI-001-C"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

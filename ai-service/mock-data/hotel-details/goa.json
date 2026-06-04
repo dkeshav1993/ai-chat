@@ -1,0 +1,208 @@
+{
+  "MOCK-HOTEL-GOA-001": {
+    "success": true,
+    "status": 0,
+    "message": "Hotel details fetched successfully",
+    "searchKey": "MOCK-SK-GOA-001",
+    "hotelData": {
+      "_id": "mock_goa_001",
+      "hotelId": "MOCK-HOTEL-GOA-001",
+      "isTCRecommended": true,
+      "fareType": "MARKETFARE",
+      "paymentType": "prepaid",
+      "name": "Taj Fort Aguada Beach Resort",
+      "brandName": "Taj",
+      "chainName": "",
+      "rating": "5",
+      "categoryName": "Luxury Resort",
+      "description": "Perched on the headland of Fort Aguada, this iconic resort blends colonial Portuguese architecture with Goan heritage. Set amidst 9 acres of lush landscaped gardens overlooking the Arabian Sea.",
+      "facilities": [
+        {
+          "id": "2390",
+          "groupId": "16",
+          "groupName": "Internet",
+          "name": "Free WiFi",
+          "link": ""
+        },
+        {
+          "id": "2100",
+          "groupId": "10",
+          "groupName": "Pool",
+          "name": "Swimming Pool",
+          "link": ""
+        },
+        {
+          "id": "2300",
+          "groupId": "7",
+          "groupName": "Spa",
+          "name": "Jiva Spa",
+          "link": ""
+        },
+        {
+          "id": "2400",
+          "groupId": "5",
+          "groupName": "Food",
+          "name": "Multiple Restaurants",
+          "link": ""
+        },
+        {
+          "id": "2500",
+          "groupId": "8",
+          "groupName": "Beach",
+          "name": "Private Beach Access",
+          "link": ""
+        }
+      ],
+      "policies": [
+        {
+          "text": "Free cancellation up to 48 hours before check-in",
+          "title": "cancellation_policy"
+        },
+        {
+          "text": "Children welcome. Kids club available.",
+          "title": "know_before_you_go"
+        },
+        {
+          "text": "Smoke-free property.",
+          "title": "smoking_policy"
+        }
+      ],
+      "propertyType": "Resort",
+      "contact": {
+        "address": {
+          "line1": "Fort Aguada Road",
+          "line2": "",
+          "city": "Goa",
+          "code": "GOA",
+          "destinationCode": "",
+          "state": "Goa",
+          "stateCode": "GA",
+          "country": "India",
+          "countryCode": "IN",
+          "postalCode": "403519"
+        },
+        "phones": [
+          "91 832 6645858"
+        ]
+      },
+      "heroImage": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=1200",
+      "checkin": {
+        "date": "",
+        "time": "2:00 PM",
+        "instructions": "<ul><li>Check-in from 2:00 PM</li></ul>",
+        "specialInstruction": ""
+      },
+      "checkout": {
+        "date": "",
+        "time": "12:00 PM"
+      },
+      "images": {
+        "isDummy": false,
+        "data": [
+          {
+            "caption": "Beach View",
+            "category": "Exterior",
+            "links": [
+              {
+                "size": "Standard",
+                "providerHref": "https://images.unsplash.com/photo-1559628233-100c798642d5?w=800",
+                "href": ""
+              },
+              {
+                "size": "XXL",
+                "providerHref": "https://images.unsplash.com/photo-1559628233-100c798642d5?w=1400",
+                "href": ""
+              }
+            ],
+            "roomId": []
+          },
+          {
+            "caption": "Pool Deck",
+            "category": "Pool",
+            "links": [
+              {
+                "size": "Standard",
+                "providerHref": "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=800",
+                "href": ""
+              },
+              {
+                "size": "XXL",
+                "providerHref": "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=1400",
+                "href": ""
+              }
+            ],
+            "roomId": []
+          },
+          {
+            "caption": "Sea View Suite",
+            "category": "Room",
+            "links": [
+              {
+                "size": "Standard",
+                "providerHref": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=800",
+                "href": ""
+              },
+              {
+                "size": "XXL",
+                "providerHref": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=1400",
+                "href": ""
+              }
+            ],
+            "roomId": []
+          },
+          {
+            "caption": "Restaurant",
+            "category": "Restaurant",
+            "links": [
+              {
+                "size": "Standard",
+                "providerHref": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+                "href": ""
+              },
+              {
+                "size": "XXL",
+                "providerHref": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1400",
+                "href": ""
+              }
+            ],
+            "roomId": []
+          },
+          {
+            "caption": "Garden Terrace",
+            "category": "Garden",
+            "links": [
+              {
+                "size": "Standard",
+                "providerHref": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+                "href": ""
+              },
+              {
+                "size": "XXL",
+                "providerHref": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1400",
+                "href": ""
+              }
+            ],
+            "roomId": []
+          },
+          {
+            "caption": "Lobby Bar",
+            "category": "Bar",
+            "links": [
+              {
+                "size": "Standard",
+                "providerHref": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800",
+                "href": ""
+              },
+              {
+                "size": "XXL",
+                "providerHref": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=1400",
+                "href": ""
+              }
+            ],
+            "roomId": []
+          }
+        ]
+      }
+    }
+  }
+}

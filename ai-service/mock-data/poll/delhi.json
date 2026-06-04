@@ -1,0 +1,124 @@
+[
+  {
+    "success": true,
+    "message": "Search results retrieved successfully",
+    "status": 0,
+    "data": {
+      "searchKey": "MOCK-SK-DELHI-001",
+      "autoSuggestId": "MOCK-AS-DELHI-001",
+      "page": 1,
+      "limit": 25,
+      "cacheKey": "MOCK-CK-DELHI-001",
+      "vervotechHotelCount": 5,
+      "hotels": [
+        {
+          "vervotechHotelId": "MOCK-HOTEL-DELHI-001",
+          "name": "The Imperial New Delhi",
+          "brandName": null,
+          "chainName": null,
+          "heroImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+          "images": [{"caption": "Primary image", "category": null, "links": [{"size": "Standard", "providerHref": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800", "href": null, "links": null}], "roomId": null}],
+          "starRating": "5",
+          "fareType": ["MARKETFARE"],
+          "isTCRecommended": true,
+          "overallMinRate": null,
+          "overallMaxRate": null,
+          "providerInfo": [{"vendorName": "GRNConnect", "providerHotelCode": "1395001", "fareType": "MARKETFARE", "totalFare": 12500, "baseFare": 10593.22, "taxes": 906.78, "additionalCharges": 1000, "refundable": true, "boardBasis": [], "inPolicy": null, "outPolicyReasons": [], "paymentType": "prepaid", "ruleName": null, "outPolicyReasonKey": []}],
+          "facilities": [{"id": "2390", "groupId": "16", "groupName": "Internet", "name": "Free WiFi", "link": ""}, {"id": "2100", "groupId": "10", "groupName": "Pool", "name": "Swimming Pool", "link": ""}],
+          "currency": "INR",
+          "propertyType": "Hotel",
+          "contact": {"address": {"line1": "Janpath", "line2": null, "city": "New Delhi", "code": "DEL", "destinationCode": null, "state": "Delhi", "stateCode": "DL", "country": "India", "countryCode": "IN", "postalCode": "110001"}, "phones": null}
+        },
+        {
+          "vervotechHotelId": "MOCK-HOTEL-DELHI-002",
+          "name": "Taj Hotel & Convention Centre",
+          "brandName": "Taj",
+          "chainName": null,
+          "heroImage": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+          "images": [{"caption": "Primary image", "category": null, "links": [{"size": "Standard", "providerHref": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800", "href": null, "links": null}], "roomId": null}],
+          "starRating": "5",
+          "fareType": ["MARKETFARE"],
+          "isTCRecommended": true,
+          "overallMinRate": null,
+          "overallMaxRate": null,
+          "providerInfo": [{"vendorName": "GRNConnect", "providerHotelCode": "1395002", "fareType": "MARKETFARE", "totalFare": 14000, "baseFare": 11864.41, "taxes": 1135.59, "additionalCharges": 1000, "refundable": true, "boardBasis": [], "inPolicy": null, "outPolicyReasons": [], "paymentType": "prepaid", "ruleName": null, "outPolicyReasonKey": []}],
+          "facilities": [{"id": "2390", "groupId": "16", "groupName": "Internet", "name": "Free WiFi", "link": ""}, {"id": "2101", "groupId": "5", "groupName": "Food", "name": "Restaurant", "link": ""}],
+          "currency": "INR",
+          "propertyType": "Hotel",
+          "contact": {"address": {"line1": "Diplomatic Enclave", "line2": null, "city": "New Delhi", "code": "DEL", "destinationCode": null, "state": "Delhi", "stateCode": "DL", "country": "India", "countryCode": "IN", "postalCode": "110023"}, "phones": null}
+        }
+      ],
+      "inprogress": true
+    }
+  },
+  {
+    "success": true,
+    "message": "Search results retrieved successfully",
+    "status": 0,
+    "data": {
+      "searchKey": "MOCK-SK-DELHI-001",
+      "autoSuggestId": "MOCK-AS-DELHI-001",
+      "page": 1,
+      "limit": 25,
+      "cacheKey": "MOCK-CK-DELHI-001",
+      "vervotechHotelCount": 5,
+      "hotels": [
+        {
+          "vervotechHotelId": "MOCK-HOTEL-DELHI-003",
+          "name": "Hyatt Regency Delhi",
+          "brandName": "Hyatt",
+          "chainName": null,
+          "heroImage": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800",
+          "images": [{"caption": "Primary image", "category": null, "links": [{"size": "Standard", "providerHref": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800", "href": null, "links": null}], "roomId": null}],
+          "starRating": "5",
+          "fareType": ["MARKETFARE"],
+          "isTCRecommended": false,
+          "overallMinRate": null,
+          "overallMaxRate": null,
+          "providerInfo": [{"vendorName": "GRNConnect", "providerHotelCode": "1395003", "fareType": "MARKETFARE", "totalFare": 9800, "baseFare": 8305.08, "taxes": 694.92, "additionalCharges": 800, "refundable": true, "boardBasis": [], "inPolicy": null, "outPolicyReasons": [], "paymentType": "prepaid", "ruleName": null, "outPolicyReasonKey": []}],
+          "facilities": [{"id": "2390", "groupId": "16", "groupName": "Internet", "name": "Free WiFi", "link": ""}, {"id": "2102", "groupId": "11", "groupName": "Fitness", "name": "Fitness Center", "link": ""}],
+          "currency": "INR",
+          "propertyType": "Hotel",
+          "contact": {"address": {"line1": "Bhikaiji Cama Place", "line2": null, "city": "New Delhi", "code": "DEL", "destinationCode": null, "state": "Delhi", "stateCode": "DL", "country": "India", "countryCode": "IN", "postalCode": "110066"}, "phones": null}
+        },
+        {
+          "vervotechHotelId": "MOCK-HOTEL-DELHI-004",
+          "name": "ITC Maurya New Delhi",
+          "brandName": "ITC",
+          "chainName": null,
+          "heroImage": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
+          "images": [{"caption": "Primary image", "category": null, "links": [{"size": "Standard", "providerHref": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800", "href": null, "links": null}], "roomId": null}],
+          "starRating": "5",
+          "fareType": ["MARKETFARE"],
+          "isTCRecommended": true,
+          "overallMinRate": null,
+          "overallMaxRate": null,
+          "providerInfo": [{"vendorName": "GRNConnect", "providerHotelCode": "1395004", "fareType": "MARKETFARE", "totalFare": 11200, "baseFare": 9491.53, "taxes": 808.47, "additionalCharges": 900, "refundable": true, "boardBasis": [], "inPolicy": null, "outPolicyReasons": [], "paymentType": "prepaid", "ruleName": null, "outPolicyReasonKey": []}],
+          "facilities": [{"id": "2390", "groupId": "16", "groupName": "Internet", "name": "Free WiFi", "link": ""}, {"id": "2103", "groupId": "5", "groupName": "Spa", "name": "Spa", "link": ""}],
+          "currency": "INR",
+          "propertyType": "Hotel",
+          "contact": {"address": {"line1": "Sardar Patel Marg", "line2": null, "city": "New Delhi", "code": "DEL", "destinationCode": null, "state": "Delhi", "stateCode": "DL", "country": "India", "countryCode": "IN", "postalCode": "110021"}, "phones": null}
+        },
+        {
+          "vervotechHotelId": "MOCK-HOTEL-DELHI-005",
+          "name": "Shangri-La Eros New Delhi",
+          "brandName": "Shangri-La",
+          "chainName": null,
+          "heroImage": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
+          "images": [{"caption": "Primary image", "category": null, "links": [{"size": "Standard", "providerHref": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800", "href": null, "links": null}], "roomId": null}],
+          "starRating": "5",
+          "fareType": ["MARKETFARE"],
+          "isTCRecommended": false,
+          "overallMinRate": null,
+          "overallMaxRate": null,
+          "providerInfo": [{"vendorName": "GRNConnect", "providerHotelCode": "1395005", "fareType": "MARKETFARE", "totalFare": 10500, "baseFare": 8898.31, "taxes": 751.69, "additionalCharges": 850, "refundable": true, "boardBasis": [], "inPolicy": null, "outPolicyReasons": [], "paymentType": "prepaid", "ruleName": null, "outPolicyReasonKey": []}],
+          "facilities": [{"id": "2390", "groupId": "16", "groupName": "Internet", "name": "Free WiFi", "link": ""}, {"id": "2100", "groupId": "10", "groupName": "Pool", "name": "Swimming Pool", "link": ""}],
+          "currency": "INR",
+          "propertyType": "Hotel",
+          "contact": {"address": {"line1": "19 Ashoka Road", "line2": null, "city": "New Delhi", "code": "DEL", "destinationCode": null, "state": "Delhi", "stateCode": "DL", "country": "India", "countryCode": "IN", "postalCode": "110001"}, "phones": null}
+        }
+      ],
+      "inprogress": false
+    }
+  }
+]

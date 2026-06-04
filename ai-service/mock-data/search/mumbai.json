@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "message": "Search results retrieved successfully",
+  "status": 0,
+  "data": {
+    "searchKey": "MOCK-SK-MUMBAI-001",
+    "autoSuggestId": "MOCK-AS-MUMBAI-001",
+    "page": 1,
+    "limit": 25,
+    "minRate": null,
+    "maxRate": null,
+    "minStarRating": 3,
+    "maxStarRating": 5,
+    "cacheKey": "MOCK-CK-MUMBAI-001",
+    "vervotechHotelCount": 15,
+    "hotels": [],
+    "inprogress": true
+  }
+}

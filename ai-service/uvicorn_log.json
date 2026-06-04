@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "disable_existing_loggers": false,
+  "formatters": {
+    "json": { "format": "%(message)s" },
+    "default": { "format": "%(levelname)s:     %(message)s" }
+  },
+  "handlers": {
+    "file": {
+      "class": "logging.handlers.RotatingFileHandler",
+      "filename": "/Users/keshavdutta/Documents/speckit-workspace/logs/nextrip-api.log",
+      "maxBytes": 2048000,
+      "backupCount": 5,
+      "encoding": "utf-8",
+      "formatter": "json",
+      "level": "DEBUG"
+    },
+    "console": {
+      "class": "logging.StreamHandler",
+      "stream": "ext://sys.stderr",
+      "formatter": "default",
+      "level": "INFO"
+    }
+  },
+  "loggers": {
+    "uvicorn": {
+      "handlers": ["file"],
+      "level": "INFO",
+      "propagate": false
+    },
+    "uvicorn.error": {
+      "handlers": ["console"],
+      "level": "INFO",
+      "propagate": false
+    },
+    "uvicorn.access": {
+      "handlers": ["file"],
+      "level": "INFO",
+      "propagate": false
+    }
+  },
+  "root": {
+    "handlers": ["file"],
+    "level": "INFO"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "status": 0,
+  "message": "Suggestions fetched successfully",
+  "autoSuggestId": "MOCK-AS-BANGKOK-001",
+  "autoSuggests": [
+    {
+      "uniqueId": "16993000",
+      "type": "cities",
+      "name": "Bangkok",
+      "cityName": "Bangkok",
+      "stateName": "Bangkok",
+      "countryName": "Thailand"
+    },
+    {
+      "uniqueId": "16993000",
+      "type": "locations",
+      "name": "Bangkok",
+      "cityName": "Bangkok",
+      "stateName": "Bangkok",
+      "countryName": "Thailand"
+    }
+  ]
+}

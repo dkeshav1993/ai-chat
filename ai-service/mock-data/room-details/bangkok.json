@@ -1,0 +1,26 @@
+{
+  "_meta": {"description": "Mock room data for Bangkok destinations."},
+  "MOCK-HOTEL-BANGKOK-001": {
+    "success": true, "status": 0, "message": "Room details fetched successfully",
+    "autoSuggestId": "MOCK-AS-BANGKOK-001", "searchKey": "MOCK-SK-BANGKOK-001",
+    "roomData": {
+      "hotelId": "MOCK-HOTEL-BANGKOK-001",
+      "standardRooms": [
+        {
+          "description": "Deluxe City View Room", "standardName": "Deluxe City View Room",
+          "masterTitle": "Deluxe City View Room", "category": "Deluxe", "view": "City View",
+          "roomLocation": "Main Building", "occupancyType": "1 King",
+          "roomRates": [{"roomId": "MOCK-ROOM-BKK-001-A", "inputIndex": 1, "bed_group": [], "providerInfo": {"providerName": "GRNConnect", "providerHotelID": "BKK001", "fareType": "MARKETFARE", "inPolicy": null, "outPolicyReasons": [], "ruleName": null, "outPolicyReasonKey": []}, "amenities": [{"id": "", "name": "Free WiFi", "masterFacilityId": ""}, {"id": "", "name": "City View", "masterFacilityId": ""}], "rateId": "MOCK-RATE-BKK-001-A", "totalPrice": {"source": "4500.0", "parsedValue": 4500}, "basePrice": 4200.0, "taxes": 300.0, "taxBreakup": [{"amount": 200.0, "currency": null, "type": "VAT"}, {"amount": 100.0, "currency": null, "type": "Service Fee"}], "searchId": "MOCK-SEARCH-BKK-001", "boardBasis": "BB", "refundability": "Refundable", "cancelPenalties": [{"name": "Cancellation Policy", "penaltyDescription": "Free cancellation up to 24 hours", "nonRefundable": false}]}],
+          "images": {"isDummy": true, "data": [{"caption": "City View Room", "links": [{"size": "Standard", "providerHref": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800", "href": ""}], "roomId": ["MOCK-ROOM-BKK-001-A"]}]}
+        },
+        {
+          "description": "Riverside Suite", "standardName": "Riverside Suite",
+          "masterTitle": "Riverside Suite", "category": "Suite", "view": "Chao Phraya River View",
+          "roomLocation": "Riverside Wing", "occupancyType": "1 King",
+          "roomRates": [{"roomId": "MOCK-ROOM-BKK-001-B", "inputIndex": 2, "bed_group": [], "providerInfo": {"providerName": "GRNConnect", "providerHotelID": "BKK001", "fareType": "MARKETFARE", "inPolicy": null, "outPolicyReasons": [], "ruleName": null, "outPolicyReasonKey": []}, "amenities": [{"id": "", "name": "Free WiFi", "masterFacilityId": ""}, {"id": "", "name": "River View", "masterFacilityId": ""}], "rateId": "MOCK-RATE-BKK-001-B", "totalPrice": {"source": "12000.0", "parsedValue": 12000}, "basePrice": 11200.0, "taxes": 800.0, "taxBreakup": [{"amount": 500.0, "currency": null, "type": "VAT"}, {"amount": 300.0, "currency": null, "type": "Service Fee"}], "searchId": "MOCK-SEARCH-BKK-001", "boardBasis": "HB", "refundability": "Non-Refundable", "cancelPenalties": [{"name": "Cancellation Policy", "penaltyDescription": "Non-Refundable", "nonRefundable": true}]}],
+          "images": {"isDummy": true, "data": [{"caption": "Riverside Suite", "links": [{"size": "Standard", "providerHref": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800", "href": ""}], "roomId": ["MOCK-ROOM-BKK-001-B"]}]}
+        }
+      ]
+    }
+  }
+}

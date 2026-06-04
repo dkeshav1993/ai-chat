@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "status": 0,
+  "message": "Suggestions fetched successfully",
+  "autoSuggestId": "MOCK-AS-GOA-001",
+  "autoSuggests": [
+    {
+      "uniqueId": "16992700",
+      "type": "cities",
+      "name": "Goa",
+      "cityName": "Goa",
+      "stateName": "Goa",
+      "countryName": "India"
+    },
+    {
+      "uniqueId": "16992700",
+      "type": "locations",
+      "name": "Goa",
+      "cityName": "Goa",
+      "stateName": "Goa",
+      "countryName": "India"
+    }
+  ]
+}

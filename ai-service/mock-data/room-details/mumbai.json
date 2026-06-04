@@ -1,0 +1,26 @@
+{
+  "_meta": {"description": "Mock room data for Mumbai destinations."},
+  "MOCK-HOTEL-MUMBAI-001": {
+    "success": true, "status": 0, "message": "Room details fetched successfully",
+    "autoSuggestId": "MOCK-AS-MUMBAI-001", "searchKey": "MOCK-SK-MUMBAI-001",
+    "roomData": {
+      "hotelId": "MOCK-HOTEL-MUMBAI-001",
+      "standardRooms": [
+        {
+          "description": "Sea-Facing Deluxe Room", "standardName": "Sea-Facing Deluxe Room",
+          "masterTitle": "Sea-Facing Deluxe Room", "category": "Deluxe", "view": "Sea View",
+          "roomLocation": "Ocean Wing", "occupancyType": "1 King",
+          "roomRates": [{"roomId": "MOCK-ROOM-MUMBAI-001-A", "inputIndex": 1, "bed_group": [], "providerInfo": {"providerName": "GRNConnect", "providerHotelID": "MUM001", "fareType": "MARKETFARE", "inPolicy": null, "outPolicyReasons": [], "ruleName": null, "outPolicyReasonKey": []}, "amenities": [{"id": "", "name": "Free WiFi", "masterFacilityId": ""}, {"id": "", "name": "Sea View", "masterFacilityId": ""}], "rateId": "MOCK-RATE-MUMBAI-001-A", "totalPrice": {"source": "12000.0", "parsedValue": 12000}, "basePrice": 10169.49, "taxes": 1830.51, "taxBreakup": [{"amount": 830.51, "currency": null, "type": "GST"}, {"amount": 1000.0, "currency": null, "type": "Service Fee"}], "searchId": "MOCK-SEARCH-MUM-001", "boardBasis": "BB", "refundability": "Refundable", "cancelPenalties": [{"name": "Cancellation Policy", "penaltyDescription": "Free cancellation up to 48 hours", "nonRefundable": false}]}],
+          "images": {"isDummy": true, "data": [{"caption": "Sea View Room", "links": [{"size": "Standard", "providerHref": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=800", "href": ""}], "roomId": ["MOCK-ROOM-MUMBAI-001-A"]}]}
+        },
+        {
+          "description": "Premier Suite", "standardName": "Premier Suite",
+          "masterTitle": "Premier Suite", "category": "Suite", "view": "City and Sea View",
+          "roomLocation": "High Floors", "occupancyType": "1 King",
+          "roomRates": [{"roomId": "MOCK-ROOM-MUMBAI-001-B", "inputIndex": 2, "bed_group": [], "providerInfo": {"providerName": "GRNConnect", "providerHotelID": "MUM001", "fareType": "MARKETFARE", "inPolicy": null, "outPolicyReasons": [], "ruleName": null, "outPolicyReasonKey": []}, "amenities": [{"id": "", "name": "Free WiFi", "masterFacilityId": ""}, {"id": "", "name": "Butler Service", "masterFacilityId": ""}], "rateId": "MOCK-RATE-MUMBAI-001-B", "totalPrice": {"source": "28000.0", "parsedValue": 28000}, "basePrice": 23728.81, "taxes": 4271.19, "taxBreakup": [{"amount": 1271.19, "currency": null, "type": "GST"}, {"amount": 3000.0, "currency": null, "type": "Service Fee"}], "searchId": "MOCK-SEARCH-MUM-001", "boardBasis": "FB", "refundability": "Non-Refundable", "cancelPenalties": [{"name": "Cancellation Policy", "penaltyDescription": "Non-Refundable", "nonRefundable": true}]}],
+          "images": {"isDummy": true, "data": [{"caption": "Premier Suite", "links": [{"size": "Standard", "providerHref": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800", "href": ""}], "roomId": ["MOCK-ROOM-MUMBAI-001-B"]}]}
+        }
+      ]
+    }
+  }
+}

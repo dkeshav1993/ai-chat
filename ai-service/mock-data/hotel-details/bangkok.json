@@ -1,0 +1,191 @@
+{
+  "MOCK-HOTEL-BANGKOK-001": {
+    "success": true,
+    "status": 0,
+    "message": "Hotel details fetched successfully",
+    "searchKey": "MOCK-SK-BANGKOK-001",
+    "hotelData": {
+      "_id": "mock_bangkok_001",
+      "hotelId": "MOCK-HOTEL-BANGKOK-001",
+      "isTCRecommended": true,
+      "fareType": "MARKETFARE",
+      "paymentType": "prepaid",
+      "name": "Mandarin Oriental Bangkok",
+      "brandName": "Mandarin Oriental",
+      "chainName": "",
+      "rating": "5",
+      "categoryName": "Luxury Heritage",
+      "description": "The legendary Mandarin Oriental Bangkok has been welcoming guests since 1876. Set on the banks of the Chao Phraya River, this iconic hotel combines classic elegance with traditional Thai hospitality.",
+      "facilities": [
+        {
+          "id": "2390",
+          "groupId": "16",
+          "groupName": "Internet",
+          "name": "Free WiFi",
+          "link": ""
+        },
+        {
+          "id": "2100",
+          "groupId": "10",
+          "groupName": "Pool",
+          "name": "Swimming Pool",
+          "link": ""
+        },
+        {
+          "id": "2200",
+          "groupId": "11",
+          "groupName": "Fitness",
+          "name": "Fitness Center",
+          "link": ""
+        },
+        {
+          "id": "2300",
+          "groupId": "7",
+          "groupName": "Spa",
+          "name": "The Oriental Spa",
+          "link": ""
+        },
+        {
+          "id": "2400",
+          "groupId": "5",
+          "groupName": "Food",
+          "name": "Multiple Restaurants",
+          "link": ""
+        }
+      ],
+      "policies": [
+        {
+          "text": "Free cancellation up to 72 hours before check-in",
+          "title": "cancellation_policy"
+        },
+        {
+          "text": "Dress code applies in dining venues.",
+          "title": "know_before_you_go"
+        },
+        {
+          "text": "Non-smoking hotel.",
+          "title": "smoking_policy"
+        }
+      ],
+      "propertyType": "Hotel",
+      "contact": {
+        "address": {
+          "line1": "48 Oriental Avenue",
+          "line2": "",
+          "city": "Bangkok",
+          "code": "BKK",
+          "destinationCode": "",
+          "state": "Bangkok",
+          "stateCode": "BK",
+          "country": "Thailand",
+          "countryCode": "TH",
+          "postalCode": "10500"
+        },
+        "phones": [
+          "+66 2 659 9000"
+        ]
+      },
+      "heroImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200",
+      "checkin": {
+        "date": "",
+        "time": "2:00 PM",
+        "instructions": "<ul><li>Check-in from 2:00 PM</li></ul>",
+        "specialInstruction": ""
+      },
+      "checkout": {
+        "date": "",
+        "time": "12:00 PM"
+      },
+      "images": {
+        "isDummy": false,
+        "data": [
+          {
+            "caption": "City Skyline",
+            "category": "Exterior",
+            "links": [
+              {
+                "size": "Standard",
+                "providerHref": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=800",
+                "href": ""
+              },
+              {
+                "size": "XXL",
+                "providerHref": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=1400",
+                "href": ""
+              }
+            ],
+            "roomId": []
+          },
+          {
+            "caption": "Rooftop Bar",
+            "category": "Bar",
+            "links": [
+              {
+                "size": "Standard",
+                "providerHref": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800",
+                "href": ""
+              },
+              {
+                "size": "XXL",
+                "providerHref": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=1400",
+                "href": ""
+              }
+            ],
+            "roomId": []
+          },
+          {
+            "caption": "Thai Garden",
+            "category": "Garden",
+            "links": [
+              {
+                "size": "Standard",
+                "providerHref": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800",
+                "href": ""
+              },
+              {
+                "size": "XXL",
+                "providerHref": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1400",
+                "href": ""
+              }
+            ],
+            "roomId": []
+          },
+          {
+            "caption": "Deluxe Room",
+            "category": "Room",
+            "links": [
+              {
+                "size": "Standard",
+                "providerHref": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=800",
+                "href": ""
+              },
+              {
+                "size": "XXL",
+                "providerHref": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=1400",
+                "href": ""
+              }
+            ],
+            "roomId": []
+          },
+          {
+            "caption": "Infinity Pool",
+            "category": "Pool",
+            "links": [
+              {
+                "size": "Standard",
+                "providerHref": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
+                "href": ""
+              },
+              {
+                "size": "XXL",
+                "providerHref": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1400",
+                "href": ""
+              }
+            ],
+            "roomId": []
+          }
+        ]
+      }
+    }
+  }
+}
